@@ -604,7 +604,7 @@ ul{
      }
      .icon_res{
         width: 100%;
-        border: 1px solid white;
+        /* border: 1px solid white; */
         display: flex;
         justify-content: center;
      }
@@ -870,7 +870,7 @@ ul{
     }
     .container_7{
         width: 100%;
-        /* background-color: #25D366; */
+        background-color: #25D366;
         justify-content: start;
     }
     .box6{
@@ -894,6 +894,10 @@ ul{
         /* background-color: blue; */
         justify-content: center;
        
+    }
+    .right7 img{
+        position: relative;
+        right: 50px;
     }
     .footer_container{
         display: none;
